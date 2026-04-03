@@ -35,6 +35,12 @@ O objetivo do jogo é:
 
 ---
 
+## Demonstração:
+
+![p5 jsWebEditor_Spuriouspointcopy-GoogleChrome2026-04-0300-57-53-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/96cb9d0f-d28b-4f43-98c3-96480a47ea68)
+
+
+
 ## 🕹️ Mecânicas do Jogo
 
 ### 🖱️ Controle
